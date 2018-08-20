@@ -1,0 +1,2 @@
+Implemented Anomaly detection algorhitm using gaussian distribution.
+Also implemented recommender using collaborative filtering.
