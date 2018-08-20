@@ -1,0 +1,1 @@
+Implemented forward propagation and backward propagation algorhitm.
