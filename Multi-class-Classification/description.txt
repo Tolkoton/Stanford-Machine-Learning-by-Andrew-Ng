@@ -1,0 +1,1 @@
+Here I implemented a multi-class classificator that recognizes written numbers.
