@@ -1,0 +1,2 @@
+Implemented K-Means clustering algorhitm.
+Reduced dataset dimensionality using principal component analysis.
