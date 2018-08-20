@@ -1,0 +1,1 @@
+Here I implemented computing cost and gradients, feature normalization and played with learning rate.
